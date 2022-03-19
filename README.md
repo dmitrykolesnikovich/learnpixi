@@ -4,3 +4,5 @@ PIXI
 2. на русском доклад https://www.youtube.com/watch?v=yibGMQ7GGVo
 3. демка с фильтрами http://filters.pixijs.download/dev/demo/index.html
 4. что такое premultiplied alpha
+5. alpha compositing overlay https://www.google.com/search?q=alpha+compositing+overlay
+
